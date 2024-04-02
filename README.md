@@ -33,5 +33,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white&logo=GitHub"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=white&logo=Slack"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logoColor=white&logo=Postman"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logoColor=white&logo=Canva"/>
 </div>
