@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=TypeScript"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=white&logo=Express"/>
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logoColor=white&logo=NestJs"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=white&logo=PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white&logo=MySQL"/>
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logoColor=white&logo=Amazon RDS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=white&logo=PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white&logo=MySQL"/>
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 </div>
 
 <h4>➡️ FE</h4>
@@ -23,8 +23,8 @@
 
 <h4>➡️ DEPLOYMENT</h4>
 <div style="display=flex;">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logoColor=white&logo=Vercel"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logoColor=white&logo=Vercel"/>
 </div>
 
 <h4>➡️ TOOLS</h4>
