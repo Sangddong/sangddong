@@ -24,7 +24,7 @@
 <h4>➡️ DEPLOYMENT</h4>
 <div style="display=flex;">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logoColor=white&logo=Vercel"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logoColor=white&logo=Amazon AWS"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
 <h4>➡️ TOOLS</h4>
